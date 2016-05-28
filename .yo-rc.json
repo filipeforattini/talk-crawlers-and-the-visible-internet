@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Crawlers and the Visible Internet",
+    "packageVersion": "0.1.0",
+    "revealTheme": "serif",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "filipeforattini",
+    "githubRepository": "talk-crawlers-and-the-visible-internet"
+  }
+}
